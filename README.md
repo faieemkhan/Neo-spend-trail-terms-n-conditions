@@ -1,4 +1,4 @@
-# Terms and Conditions  
+# Terms and Conditions For Neo Spend Trail 
 
 **Effective Date:** 01/10/2025 
 
