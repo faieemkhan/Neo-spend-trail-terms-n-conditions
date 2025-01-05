@@ -116,8 +116,7 @@ These Terms are governed by and construed in accordance with the laws of India. 
 
 ## **14. Contact Us**  
 If you have questions or concerns about these Terms, please contact us at:  
-- **Email**: faieemk444@gmail.com 
-- **Phone**: +91-6260938756
+- **Email**: faieemk444@gmail.com
 
 ---
 
