@@ -79,7 +79,7 @@ By using the App, you agree:
 ---
 
 ## **8. Data Collection and Privacy**  
-Our use of your data is governed by our [Privacy Policy](#https://faieemkhan.github.io/Neo-spend-trail-privacy-policy/). By using the App, you consent to the collection and use of your data as outlined in the Privacy Policy.  
+Our use of your data is governed by our [Privacy Policy](https://faieemkhan.github.io/Neo-spend-trail-privacy-policy/). By using the App, you consent to the collection and use of your data as outlined in the Privacy Policy.  
 
 ---
 
